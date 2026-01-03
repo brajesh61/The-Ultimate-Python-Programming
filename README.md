@@ -1,6 +1,12 @@
-# File Sharing Repository
+# 🔗 Direct File Download Page 
 
-This repository hosts a simple **index.html** page that allows anyone to download shared files directly — no credentials or authentication required.
+Welcome! This repository contains a simple and secure **file-sharing page** built with HTML. Visitors can download the shared file instantly — no login or credentials required. 
+
+
+## 📄 What's Inside 
+- `index.html`: A clean, user-friendly webpage with a **Download Now** button.
+- ✅ Fast Access — No Login Required
+- ✅ Safe, Secure & Direct Download
 
 ## 🚀 Features
 - **Public access**: Anyone can download the file without needing an account.
