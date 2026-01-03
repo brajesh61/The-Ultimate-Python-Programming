@@ -13,6 +13,8 @@ Welcome! This repository contains a simple and secure **file-sharing page** buil
 - **Simple interface**: Just open the `index.html` page in your browser.
 - **Lightweight setup**: No backend, only static HTML.
 
+Clone the repo to your local machine: ```bash git clone https://github.com/ybrajesh61/The-Ultimate-Python-Programming.git
+
 ## 🚀 How to Use
 
 To share your own file using this download page:
@@ -28,8 +30,8 @@ To share your own file using this download page:
 <a class="download-btn" href="https://drive.google.com/file/d/YOUR_FILE_ID_HERE" target="_blank">
     Download Now
 </a>
-
-
-Clone or download this repository:
-   ```bash
-   git clone https://github.com/ybrajesh61/The-Ultimate-Python-Programming.git
+```
+Clone the repo to your local machine:
+```bash
+git clone https://github.com/ybrajesh61/The-Ultimate-Python-Programming.git
+```
