@@ -33,5 +33,5 @@ To share your own file using this download page:
 ```
 Clone the repo to your local machine:
 ```bash
-git clone https://github.com/ybrajesh61/The-Ultimate-Python-Programming.git
+git clone https://github.com/brajesh61/The-Ultimate-Python-Programming.git
 ```
