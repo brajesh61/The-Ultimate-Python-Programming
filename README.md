@@ -88,19 +88,19 @@ python "Chapter 1/main.py"
 ## 🌌 TOPIC ROADMAP
 
 | Phase | Core Protocol | System Function |
-| --- | --- | --- |
-|  | **Setup** | IDE Configuration, Interpreter Linking |
-|  | **Syntax** | Package Imports, Comments, Terminal Input |
-|  | **Variables** | Type Casting, Data Allocation |
-|  | **Strings** | Slicing, Methods, Dynamic Formatting |
-|  | **Sequences** | Mutability, Tuples, List Processing |
-|  | **Dictionaries** | Hash tables, Key-Value Structures, Sets |
-|  | **Conditionals** | Logic Tree Evaluation (`if-elif-else`) |
-|  | **Iterations** | `while` & `for` Processing Loops |
-|  | **Functions** | Recursion, Pure Functions, Scope Management |
-|  | **File Streams** | Disk Reading, Writing & Memory Buffers |
-|  | **Object OOP** | Abstraction, Polymorphism, Inheritance |
-|  | **Advanced** | Decorators, Generators, Async Routines |
+| :---: | :--- | :--- |
+| **`00`** | **Setup** | IDE Configuration, Interpreter Linking |
+| **`01`** | **Syntax** | Package Imports, Comments, Terminal Input |
+| **`02`** | **Variables** | Type Casting, Data Allocation |
+| **`03`** | **Strings** | Slicing, Methods, Dynamic Formatting |
+| **`04`** | **Sequences** | Mutability, Tuples, List Processing |
+| **`05`** | **Dictionaries** | Hash tables, Key-Value Structures, Sets |
+| **`06`** | **Conditionals** | Logic Tree Evaluation (`if-elif-else`) |
+| **`07`** | **Iterations** | `while` & `for` Processing Loops |
+| **`08`** | **Functions** | Recursion, Pure Functions, Scope Management |
+| **`09`** | **File Streams** | Disk Reading, Writing & Memory Buffers |
+| **`10-11`** | **Object OOP** | Abstraction, Polymorphism, Inheritance |
+| **`12-13`** | **Advanced** | Decorators, Generators, Async Routines |
 
 ---
 
