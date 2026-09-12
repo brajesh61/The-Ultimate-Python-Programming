@@ -1,5 +1,3 @@
-```bash
-cat << 'EOF' > README.md
 <div align="center">
 
 # ⚡ 🌐 THE ULTIMATE PYTHON PROGRAMMING 🌐 ⚡
@@ -61,9 +59,6 @@ cat << 'EOF' > README.md
     ├── 📁 Project 2/                       # Interactive System 2
     └── 📁 Project 3/                       # Interactive System 3
 
-```
-
----
 
 ## 🕹️ QUICKSTART GUIDE
 
